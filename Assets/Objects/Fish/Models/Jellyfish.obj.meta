@@ -1,0 +1,114 @@
+fileFormatVersion: 2
+guid: 922fc826ea1d5f6448187c66cb92111d
+timeCreated: 1505695370
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Body_Mid
+    100002: //RootNode
+    100004: Jellyfish_2_1_Body
+    100006: Strings_Small_01
+    100008: Tendicle_01
+    100010: Tendicle_03
+    100012: Tendicle_04
+    400000: Body_Mid
+    400002: //RootNode
+    400004: Jellyfish_2_1_Body
+    400006: Strings_Small_01
+    400008: Tendicle_01
+    400010: Tendicle_03
+    400012: Tendicle_04
+    2300000: Body_Mid
+    2300002: Jellyfish_2_1_Body
+    2300004: Strings_Small_01
+    2300006: Tendicle_01
+    2300008: Tendicle_03
+    2300010: Tendicle_04
+    3300000: Body_Mid
+    3300002: Jellyfish_2_1_Body
+    3300004: Strings_Small_01
+    3300006: Tendicle_01
+    3300008: Tendicle_03
+    3300010: Tendicle_04
+    4300000: Body_Mid
+    4300002: Jellyfish_2_1_Body
+    4300004: Strings_Small_01
+    4300006: Tendicle_01
+    4300008: Tendicle_03
+    4300010: Tendicle_04
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
