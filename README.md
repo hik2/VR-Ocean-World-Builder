@@ -1,7 +1,10 @@
 # Virtual Reality Ocean World Builder
 Interactive virtual reality (VR) underwater ocean environment with object creation, interaction, and locomotion. Developed in Unity.
 
-[![](http://img.youtube.com/vi/zmpgROu-awo/0.jpg)](http://www.youtube.com/watch?v=zmpgROu-awo "Ocean World Builder")
+[YouTube Demo Video](https://www.youtube.com/watch?v=zmpgROu-awo)
+<p align="center">
+  
+</p>
 
 ### Prerequisites
 
