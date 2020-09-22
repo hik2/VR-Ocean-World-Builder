@@ -3,7 +3,7 @@ Interactive virtual reality (VR) underwater ocean environment with object creati
 
 [YouTube Demo Video](https://www.youtube.com/watch?v=zmpgROu-awo)
 <p align="center">
-  
+  <img src=fishSpawnGif.gif>
 </p>
 
 ### Prerequisites
